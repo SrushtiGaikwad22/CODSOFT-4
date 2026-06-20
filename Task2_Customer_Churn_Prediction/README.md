@@ -1,17 +1,20 @@
 # Customer Churn Prediction
 
 ## Objective
-Predict whether a customer will leave the service or not.
+Predict whether a customer will leave a service based on customer data.
 
 ## Dataset
 Telco Customer Churn Dataset
 
+## Techniques Used
+- Data preprocessing
+- Label Encoding
+- Train-test splitting
+
 ## Model Used
 Random Forest Classifier
 
-## Results
-- Accuracy: 80%
-- Churn prediction is affected by class imbalance
+## Result
+Accuracy achieved: ~80%
 
-## Outcome
-Built a machine learning model to predict customer churn successfully.
+The model successfully predicts customer churn using machine learning.
