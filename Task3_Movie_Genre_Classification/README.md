@@ -1,17 +1,20 @@
 # Movie Genre Classification
 
 ## Objective
-Build a machine learning model to predict movie genres from movie descriptions.
+Predict movie genres from movie descriptions using Natural Language Processing.
 
 ## Dataset
 Movie Genre Classification Dataset
 
-## Technique Used
+## Techniques Used
+- Text preprocessing
 - TF-IDF Vectorization
-- Multinomial Naive Bayes Classifier
+- NLP classification
 
-## Results
-Accuracy: 100%
+## Model Used
+Multinomial Naive Bayes
 
-## Conclusion
-Developed an NLP-based classification model that predicts movie genres from text descriptions.
+## Result
+Accuracy achieved: 100%
+
+Built an NLP model that classifies movies into different genres.
